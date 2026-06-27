@@ -19,7 +19,7 @@ export default function SelectionPage() {
 
       {/* Navbar Atas */}
       <nav className="w-full md:absolute top-5 right-10 p-6 flex justify-center md:justify-end gap-6 text-[10px] font-bold tracking-widest uppercase z-20">
-        <Link href="/dashboard" className="hover:text-gray-300">DASHBOARD</Link>
+        <Link href="/" className="hover:text-gray-300">DASHBOARD</Link>
       </nav>
          
       {/* Judul Utama */}

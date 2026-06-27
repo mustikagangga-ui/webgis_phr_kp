@@ -197,7 +197,7 @@ function DashboardContent() {
           <Link href="https://webgisphr.netlify.app/" target="_blank" className="opacity-60 hover:opacity-100 cursor-pointer border-l border-white/30 pl-4 md:pl-8">
             WEBGIS
           </Link>
-          <Link href="/dashboard" className="opacity-60 hover:opacity-100 cursor-pointer pl-1 md:pl-2">
+          <Link href="/" className="opacity-60 hover:opacity-100 cursor-pointer pl-1 md:pl-2">
             DASHBOARD
           </Link>
         </nav>
